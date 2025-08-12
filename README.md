@@ -37,7 +37,7 @@ A professional QGIS plugin for animal health surveillance that connects to a liv
 ### Installation Steps
 1.  **Clone or Download this Repository:**
     ```bash
-    git clone https://github.com/your-username/qgis-disease-hotspot-analyst.git
+    git clone https://github.com/bayillag/qgis-disease-hotspot-analyst.git
     ```
 2.  **Compile the Resources:** The plugin uses an icon that needs to be compiled into a Python file. Navigate into the cloned directory and run the compile script:
     ```bash
