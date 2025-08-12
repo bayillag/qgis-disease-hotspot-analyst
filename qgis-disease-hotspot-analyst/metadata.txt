@@ -1,0 +1,8 @@
+[general]
+name=Disease Hotspot Analyst
+qgisMinimumVersion=3.10
+description=A plugin to analyze animal disease outbreaks and identify statistically significant spatial clusters (hotspots).
+version=1.0
+author=Dr Bayilla Geda
+email=bayillag@gmail.com
+[plugin-dependencies]
