@@ -31,7 +31,7 @@ A professional QGIS plugin for animal health surveillance that connects to a liv
 1.  **QGIS 3.10 or higher** installed.
 2.  The required **Python libraries** must be installed *in the QGIS Python environment*. The easiest way to do this is to open the **OSGeo4W Shell** (on Windows) or your terminal (Linux/macOS) that is configured for your QGIS installation and run:
     ```bash
-    pip install supabase "geopandas<1.0" esda libpysal splot
+    pip install supabase geopandas esda libpysal splot
     ```
 
 ### Installation Steps
