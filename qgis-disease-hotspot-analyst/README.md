@@ -50,7 +50,7 @@ A professional QGIS plugin for animal health surveillance that connects to a liv
 5.  The plugin will perform the analysis and, if significant clusters are found, a new styled layer will be added to your map canvas.
 
 ## Bug Reports & Feature Requests
-Found a bug or have an idea for a new feature? Please [open an issue](https://github.com/your-username/qgis-disease-hotspot-analyst/issues/new/choose) and select the appropriate template.
+Found a bug or have an idea for a new feature? Please [open an issue](https://github.com/bayillag/qgis-disease-hotspot-analyst/issues/new/choose) and select the appropriate template.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute code, please fork the repository and open a pull request.
